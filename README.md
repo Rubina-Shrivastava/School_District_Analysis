@@ -8,7 +8,7 @@
 
 ### How is the school summary affected?
 
-    The overall passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing score is, 90.13%, is reduced by 0.3%.  We can see this in the Images –
+    The overall passing for Thomas High School was 90.94% in pycityschools, with the 9th graders taken out the overall passing score is, 90.63%, is reduced by 0.3%.  We can see this in the Images –
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
